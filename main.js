@@ -12,9 +12,21 @@
 > console.log(name)
 [Log] emran
 //3. Declare two variables with number values. Add, subtract, multiply and divide them.
-
+> var number1 = 2
+> var number2 = 5
+> number1 + number2
+< 7
+> number1 - number2
+< -3
+> number1 * number2
+< 10
+> number1 / number2
+< 0.4
 //4. Declare two variables with string values. Create a third variable that concatenates them.
-
+>var moo = "Cow"
+>var solar = "Moon"
+> console.log('The ' + moo + ' jumped over the ' + solar + '!');
+[Log] The Cow jumped over the Moon!
 //5. Add, subract, multiply and divide the strings '5' and '3'. Observe and explain the results.
 
 //6. Create a prompt that asks a user to pick a number. Double the answer.
