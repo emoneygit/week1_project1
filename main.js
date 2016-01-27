@@ -7,7 +7,10 @@
 > console.log("emran")
 [Log] emran
 //2. Declare a variable called name, log it to the console.
-
+> var name = "emran";
+< undefined
+> console.log(name)
+[Log] emran
 //3. Declare two variables with number values. Add, subtract, multiply and divide them.
 
 //4. Declare two variables with string values. Create a third variable that concatenates them.
