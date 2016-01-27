@@ -30,17 +30,20 @@ number1 / number2
 var num1 = "5";
 var num2 = "3";
 num1 + num2
-< "53" = $2
+< "53"
 num1 - num2
-2 = $3
+< 2
 > num1 * num2
-15 = $4
+< 15
 num1 / num2
-< 1.6666666666666667 = $1
+< 1.6666666666666667
 //6. Create a prompt that asks a user to pick a number. Double the answer.
-
+var number = prompt("Pick a number!?");
+​7
+console.log(number * 2);
+> 14
 //7. Create a custom alert.
-
+alert("Achtung!");
 //8. Declare three variables called length, width and height. Calculate area and volume.
 
 //9. Ask for a user's name, age and city. In a single command display/log the sentence:
