@@ -11,8 +11,8 @@ var name = "emran";
 console.log(name)
 [Log] emran
 //3. Declare two variables with number values. Add, subtract, multiply and divide them.
-var number1 = 2;
-var number2 = 5;
+var num1 = 2;
+var num2 = 5;
 num1 + num2
 < 7
 num1 - num2
