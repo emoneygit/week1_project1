@@ -13,13 +13,13 @@ console.log(name)
 //3. Declare two variables with number values. Add, subtract, multiply and divide them.
 var num1 = 2;
 var num2 = 5;
-num1 + num2
+console.log(num1 + num2)
 < 7
-num1 - num2
+console.log(num1 - num2)
 < -3
-num1 * num2
+console.log(num1 * num2)
 < 10
-num1 / num2
+console.log(num1 / num2)
 < 0.4
 //4. Declare two variables with string values. Create a third variable that concatenates them.
 >var moo = "Cow";
@@ -29,13 +29,13 @@ num1 / num2
 //5. Add, subract, multiply and divide the strings '5' and '3'. Observe and explain the results.
 var num1 = "5";
 var num2 = "3";
-num1 + num2
+console.log(num1 + num2)
 < "53"
-num1 - num2
+console.log(num1 - num2)
 < 2
-num1 * num2
+console.log(num1 * num2)
 < 15
-num1 / num2
+console.log(num1 / num2)
 < 1.6666666666666667
 //6. Create a prompt that asks a user to pick a number. Double the answer.
 var number = prompt("Pick a Number!?");
